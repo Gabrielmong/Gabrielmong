@@ -1,132 +1,136 @@
-Gabriel Monge
-=================================
+# Gabriel Monge
 
-Software Developer, Computer Science Student
---------------------------------------------
+## Software Developer, Computer Science Student
 
 Studying Computer Science and Working as as WebDev
 
-* 🌍  I'm based in Costa Rica
-* 🖥️  See my portfolio at [Gandalfio](http://gabrielmong.github.io/gandalfio/)
-* ✉️  You can contact me at [gabriel.monge.lizano@gmail.com](mailto:gabriel.monge.lizano@gmail.com)
-* 🧠  I'm learning React, Node.js, GraphQL and React Native
+- 🌍 I'm based in Costa Rica
+- 🖥️ See my portfolio at [Gandalfio](http://gabrielmong.github.io/gandalfio/)
+- ✉️ You can contact me at [gabriel.monge.lizano@gmail.com](mailto:gabriel.monge.lizano@gmail.com)
+- 🧠 I'm learning React, Node.js, GraphQL and React Native
 
 <p align="left">
-<table><tr><td valign="middle" width="33%">
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.python.org" > 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java" />
-   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50" height="50" alt="PHP" />
-   </a>
-   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg" width="50" height="50" alt="C++" />
-   </a>
+    <table>
+        <tr>
+            <td valign="middle" width="33%">
+                <h3 align="center">Programming Languages</h3>
+                <p align="center">
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+                    </a> 
+                    <a href="https://www.python.org" > 
+                        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> 
+                    </a> 
+                    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java" />
+                    </a>
+                    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50" height="50" alt="PHP" />
+                    </a>
+                    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+                        <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg" width="50" height="50" alt="C++" />
+                    </a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Frontend Development</h3>
+                <p align="center"> 
+                    <a href="https://www.w3schools.com/css/" > 
+                        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
+                    </a> 
+                    <a href="https://www.w3.org/html/" > 
+                        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+                    </a> 
+                    <a href="https://reactjs.org/" > 
+                        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+                    <a href="https://getbootstrap.com" > 
+                        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
+                    </a> 
+                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
+                    </a>
+                </p>
+                <h3 align="center">Other</h3>
+                <p align="center">
+                    <a href="https://www.linux.org/" target="_blank"> 
+                        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+                    </a> 
+                    <a href="https://git-scm.com/" >
+                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+                    </a>
+                    <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
+                        <img src="https://github.com/detain/svg-logos/blob/master/svg/adobe-xd-2.svg" width="40" height="40" alt="XD" />
+                    </a>
+                    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
+                    </a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Backend Development</h3>
+                <p align="center">
+                    <a href="https://nodejs.org" >
+                        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+                    </a> 
+                    <a href="https://expressjs.com" > 
+                        <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/>
+                    </a>
+                    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
+                    </a>
+                </p>
+                <h3 align="center">Database & Testing</h3>
+                <p align="center"> 
+                    <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40" alt="Oracle" />
+                    </a>
+                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+                    </a>
+                    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="36" height="36" alt="PostgreSQL" />
+                    </a>
+                    <a href="https://postman.com" >
+                        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+                    </a> 
+                    <a href="https://insomnia.rest/" >
+                        <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="insomnia" width="40" height="40"/>
+                    </a> 
+                </p>
+            </td>
+        </tr>
+    </table>
 </p>
-  
-</td><td valign="top" width="33%">
-<h3 align="center">Frontend Development</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/css/" > 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
-   </a> 
-   <a href="https://www.w3.org/html/" > 
-   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-   </a> 
-   <a href="https://reactjs.org/" > 
-   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
-   <a href="https://getbootstrap.com" > 
-   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
-   </a> 
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
-   </a>
-   </p>
-  
-<h3 align="center">Other</h3>
-<p align="center">
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-   </a> 
-   <a href="https://git-scm.com/" >
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-   </a>
-   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-   <img src="https://github.com/detain/svg-logos/blob/master/svg/adobe-xd-2.svg" width="40" height="40" alt="XD" />
-   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
-  </a>
-
-   </p>
-
-</td><td valign="top" width="33%">
-<h3 align="center">Backend Development</h3>
-<p align="center">
-  <a href="https://nodejs.org" >
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://expressjs.com" > 
-  <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
-  </a>
-  </p>
-
-<h3 align="center">Database & Testing</h3>
-<p align="center"> 
-  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40" alt="Oracle" />
-    </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://postman.com" >
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-  <a href="https://insomnia.rest/" >
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="insomnia" width="40" height="40"/>
-  </a> 
-</p>
-  
-
-</td></tr></table>
-
 
 ### Socials
 
 <p align="left"> 
-  <a href="https://discord.com/users/386301669111103488" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="45" height="45" />
-  </a> 
-  <a href="https://www.github.com/Gabrielmong" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="45" height="45" />
-    </a> <a href="http://www.instagram.com/gabriel_mong" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="45" height="45" />
+    <a href="https://discord.com/users/386301669111103488" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="45" height="45" />
+    </a> 
+    <a href="https://www.github.com/Gabrielmong" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="45" height="45" />
+    </a> 
+    <a href="http://www.instagram.com/gabriel_mong" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="45" height="45" />
     </a> 
     <a href="https://www.linkedin.com/in/gabrielmonge/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" />
-    </a></p>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" />
+    </a>
+</p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Gabrielmong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Gabrielmong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/Gabrielmong"><img src="https://github-readme-stats.vercel.app/api?username=Gabrielmong&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gabrielmong's GitHub stats" /></a>
-
-<a href="http://www.github.com/Gabrielmong"><img src="https://activity-graph.herokuapp.com/graph?username=Gabrielmong&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<p align="left"> 
+  <a href="https://github.com/Gabrielmong" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Gabrielmong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+   </a>
+  <a href="http://www.github.com/Gabrielmong" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gabrielmong&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gabrielmong's GitHub stats" />
+   </a>
+</p>
+<a href="http://www.github.com/Gabrielmong">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Gabrielmong&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
