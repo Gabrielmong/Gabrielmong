@@ -11,31 +11,114 @@ Studying Computer Science and Working as as WebDev
 * ✉️  You can contact me at [gabriel.monge.lizano@gmail.com](mailto:gabriel.monge.lizano@gmail.com)
 * 🧠  I'm learning React, Node.js, GraphQL and React Native
 
-### Skills
-
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<table><tr><td valign="middle" width="33%">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.python.org" > 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java" />
+   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50" height="50" alt="PHP" />
+   </a>
+   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg" width="50" height="50" alt="C++" />
+   </a>
 </p>
+  
+</td><td valign="top" width="33%">
+<h3 align="center">Frontend Development</h3>
+<p align="center"> 
+  <a href="https://www.w3schools.com/css/" > 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> 
+   </a> 
+   <a href="https://www.w3.org/html/" > 
+   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+   </a> 
+   <a href="https://reactjs.org/" > 
+   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+   <a href="https://getbootstrap.com" > 
+   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
+   </a> 
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
+   </a>
+   </p>
+  
+<h3 align="center">Other</h3>
+<p align="center">
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+   </a> 
+   <a href="https://git-scm.com/" >
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+   </a>
+   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
+   <img src="https://github.com/detain/svg-logos/blob/master/svg/adobe-xd-2.svg" width="40" height="40" alt="XD" />
+   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
+  </a>
+
+   </p>
+
+</td><td valign="top" width="33%">
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <a href="https://nodejs.org" >
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+  </a> 
+  <a href="https://expressjs.com" > 
+  <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
+  </a>
+  </p>
+
+<h3 align="center">Database & Testing</h3>
+<p align="center"> 
+  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40" alt="Oracle" />
+    </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://postman.com" >
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a> 
+  <a href="https://insomnia.rest/" >
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="insomnia" width="40" height="40"/>
+  </a> 
+</p>
+  
+
+</td></tr></table>
+
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/386301669111103488" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Gabrielmong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gabriel_mong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabrielmonge/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://discord.com/users/386301669111103488" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="45" height="45" />
+  </a> 
+  <a href="https://www.github.com/Gabrielmong" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="45" height="45" />
+    </a> <a href="http://www.instagram.com/gabriel_mong" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="45" height="45" />
+    </a> 
+    <a href="https://www.linkedin.com/in/gabrielmonge/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" />
+    </a></p>
 
 ### Badges
 
