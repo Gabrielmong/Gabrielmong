@@ -1,15 +1,15 @@
 Gabriel Monge
 =================================
 
-Software Developer
-------------------
+Software Developer, Computer Science Student
+--------------------------------------------
 
 Studying Computer Science and Working as as WebDev
 
 * 🌍  I'm based in Costa Rica
 * 🖥️  See my portfolio at [Gandalfio](http://gabrielmong.github.io/gandalfio/)
 * ✉️  You can contact me at [gabriel.monge.lizano@gmail.com](mailto:gabriel.monge.lizano@gmail.com)
-* 🧠  I'm learning React, Node.js, GraphQL
+* 🧠  I'm learning React, Node.js, GraphQL and React Native
 
 ### Skills
 
@@ -41,7 +41,7 @@ Studying Computer Science and Working as as WebDev
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Gabrielmong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Gabrielmong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Gabrielmong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/Gabrielmong"><img src="https://github-readme-stats.vercel.app/api?username=Gabrielmong&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gabrielmong's GitHub stats" /></a>
 
