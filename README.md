@@ -7,7 +7,7 @@ Studying Computer Science and Working as as WebDev
 - 🌍 I'm based in Costa Rica
 - 🖥️ See my portfolio at [Gandalfio](http://gabrielmong.github.io/gandalfio/)
 - ✉️ You can contact me at [gabriel.monge.lizano@gmail.com](mailto:gabriel.monge.lizano@gmail.com)
-- 🧠 I'm learning React, Node.js, GraphQL and React Native
+- 🧠 I'm learning some JS libraries and frameworks, as well as some C# and .NET
 
 <p align="left">
     <table>
@@ -29,6 +29,9 @@ Studying Computer Science and Working as as WebDev
                     </a>
                     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
                         <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg" width="50" height="50" alt="C++" />
+                    </a>
+                    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+                        <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg" width="50" height="50" alt="C#" />
                     </a>
                 </p>
             </td>
