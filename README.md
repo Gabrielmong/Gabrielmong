@@ -122,8 +122,6 @@ Studying Computer Science and Working as as WebDev
     </a>
 </p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
