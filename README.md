@@ -15,10 +15,10 @@ Studying Computer Science and Working as as WebDev
             <td valign="middle" width="33%">
                 <h3 align="center">Programming Languages</h3>
                 <p align="center">
-                    <a href="https://www.typescriptlang.org/" > 
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
                     </a> 
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
+                    <a href="https://www.typescriptlang.org/" > 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="50" height="50"/> 
                     </a> 
                     <a href="https://www.python.org" > 
