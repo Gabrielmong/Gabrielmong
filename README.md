@@ -15,8 +15,11 @@ Studying Computer Science and Working as as WebDev
             <td valign="middle" width="33%">
                 <h3 align="center">Programming Languages</h3>
                 <p align="center">
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
+                    <a href="https://www.typescriptlang.org/" > 
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+                    </a> 
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > 
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="50" height="50"/> 
                     </a> 
                     <a href="https://www.python.org" > 
                         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> 
@@ -80,6 +83,9 @@ Studying Computer Science and Working as as WebDev
                     </a>
                     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
+                    </a>
+                    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/dotnet.svg" width="50" height="50" alt="C#" />
                     </a>
                 </p>
                 <h3 align="center">Database & Testing</h3>
