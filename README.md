@@ -36,6 +36,9 @@ Studying Computer Science and Working as as WebDev
                     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
                         <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg" width="50" height="50" alt="C#" />
                     </a>
+                    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="C#" />
+                    </a>
                 </p>
             </td>
             <td valign="top" width="33%">
@@ -52,8 +55,11 @@ Studying Computer Science and Working as as WebDev
                     <a href="https://getbootstrap.com" > 
                         <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
                     </a> 
-                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS" />
+                    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/vitejs.svg" width="40" height="40" alt="TailwindCSS" />
+                    </a>
+                     <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
+                        <img src="https://user-images.githubusercontent.com/65610526/168073844-0f75ffde-8c1d-4800-a989-5311b27d80b0.jpeg" width="40" height="40" alt="TailwindCSS" />
                     </a>
                 </p>
                 <h3 align="center">Other</h3>
