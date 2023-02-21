@@ -6,8 +6,8 @@ Studying Computer Science and Working as as WebDev
 
 - 🌍 I'm based in Costa Rica
 - 🖥️ See my portfolio at [Gandalfio](http://gabrielmong.github.io/gandalfio/)
-- ✉️ You can contact me at [gabriel.monge.lizano@gmail.com](mailto:gabriel.monge.lizano@gmail.com)
-- 🧠 I'm learning some JS libraries and frameworks, as well as some C# and .NET
+- ✉️ You can contact me at [my email](mailto:gabriel.monge.lizano@gmail.com)
+- 🧠 Working on my skills. reading docs and practicing.
 
 <p align="left">
     <table>
