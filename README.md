@@ -56,7 +56,7 @@ Studying Computer Science and Working as as WebDev
                         <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
                     </a> 
                     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/vitejs.svg" width="40" height="40" alt="TailwindCSS" />
+                        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/v/vitejs.svg" width="40" height="40" alt="TailwindCSS" />
                     </a>
                      <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
                         <img src="https://user-images.githubusercontent.com/65610526/168073844-0f75ffde-8c1d-4800-a989-5311b27d80b0.jpeg" width="40" height="40" alt="TailwindCSS" />
@@ -71,7 +71,7 @@ Studying Computer Science and Working as as WebDev
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
                     </a>
                     <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-                        <img src="https://github.com/detain/svg-logos/blob/master/svg/adobe-xd-2.svg" width="40" height="40" alt="XD" />
+                        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/a/adobe-xd.svg" width="40" height="40" alt="XD" />
                     </a>
                     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
