@@ -1,6 +1,6 @@
 # Gabriel Monge
 
-## Software Developer, Computer Science Student
+## Software Engineer
 
 Studying Computer Science and Working as as WebDev
 
