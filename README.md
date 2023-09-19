@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-Studying Computer Science and Working as as WebDev
+BE Computer Science and Working as as Web developer
 
 - 🌍 I'm based in Costa Rica
 - 🖥️ See my portfolio at [Gandalfio](http://gabrielmong.github.io/gandalfio/)
