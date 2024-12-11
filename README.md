@@ -1,13 +1,12 @@
 # Gabriel Monge
+Fullstack Developer at Tiims Revolution excelling in JavaScript, TypeScript, React.js, and Node.js. Proven expertise in developing web applications from inception to deployment, optimizing processes, and enhancing software functionality. 
+Proficient in GitHub-based collaboration and CI/CD.
 
 ## Software Engineer
-
-BE Computer Science and Working as a Web developer
 
 - 🌍 I'm based in Costa Rica
 - 🖥️ See my portfolio at [Gandalfio](http://gabrielmong.github.io/gandalfio/)
 - ✉️ You can contact me at [my email](mailto:gabriel.monge.lizano@gmail.com)
-- 🧠 Working on my skills. reading docs and practicing.
 
 <p align="left">
     <table>
