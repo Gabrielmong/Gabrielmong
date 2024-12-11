@@ -36,9 +36,6 @@ BE Computer Science and Working as a Web developer
                     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
                         <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.svg" width="50" height="50" alt="C#" />
                     </a>
-                    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-                        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="C#" />
-                    </a>
                 </p>
             </td>
             <td valign="top" width="33%">
@@ -69,9 +66,6 @@ BE Computer Science and Working as a Web developer
                     </a> 
                     <a href="https://git-scm.com/" >
                         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-                    </a>
-                    <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/a/adobe-xd.svg" width="40" height="40" alt="XD" />
                     </a>
                     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
@@ -110,6 +104,9 @@ BE Computer Science and Working as a Web developer
                     </a> 
                     <a href="https://insomnia.rest/" >
                         <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="insomnia" width="40" height="40"/>
+                    </a> 
+                     <a href="https://www.cypress.io/" >
+                        <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="Cyprewss" width="40" height="40"/>
                     </a> 
                 </p>
             </td>
