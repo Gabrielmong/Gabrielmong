@@ -1,5 +1,5 @@
 # Gabriel Monge
-Fullstack Developer at Tiims Revolution excelling in JavaScript, TypeScript, React.js, and Node.js. Proven expertise in developing web applications from inception to deployment, optimizing processes, and enhancing software functionality. 
+Software Engineer @ TrackStar excelling in JavaScript, TypeScript, React.js, and Node.js. Proven expertise in developing web applications from inception to deployment, optimizing processes, and enhancing software functionality. 
 Proficient in GitHub-based collaboration and CI/CD.
 
 ## Software Engineer
